@@ -23,3 +23,5 @@ FA 4 in KHub
 [Car Sample Code](https://github.com/vdbobila/CS3-Respository/blob/main/q1/q1_mycar_arayat_bobila.py)
 
 [Tusoktusok Sample Code](https://github.com/vdbobila/CS3-Respository/blob/main/q1/q1_tusoktusok_arayat_bobila.py)
+
+[SA Solution](https://github.com/vdbobila/CS3-Repository/blob/main/q1/q1_sa_solution.py)
