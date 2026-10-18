@@ -25,3 +25,7 @@ FA 4 in KHub
 [Tusoktusok Sample Code](https://github.com/vdbobila/CS3-Respository/blob/main/q1/q1_tusoktusok_arayat_bobila.py)
 
 [SA Solution](https://github.com/vdbobila/CS3-Repository/blob/main/q1/q1_sa_solution.py)
+
+**Quarter 2**
+
+[FA 1](https://github.com/vdbobila/CS3-Repository/blob/main/q2/fa1_arayat_bobila)
