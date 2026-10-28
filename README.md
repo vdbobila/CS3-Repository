@@ -29,3 +29,5 @@ FA 4 in KHub
 **Quarter 2**
 
 [FA 1](https://github.com/vdbobila/CS3-Repository/blob/main/q2/fa1_arayat_bobila.py)
+
+[FA 2](https://github.com/vdbobila/CS3-Repository/blob/main/q2/fa2_arayat_bobila.py)
