@@ -8,15 +8,9 @@
 
 [FA 2](https://github.com/vdbobila/CS3-Respository/blob/main/q1/q1_sg2_a3.py)
 
-FA 3 in KHub
-
-FA 4 in KHub
-
 [FA 5](https://github.com/vdbobila/CS3-Respository/blob/main/q1/q1_sg5_a1_arayat_bobila.py)
 
 [FA 6](https://github.com/vdbobila/CS3-Respository/blob/main/q1/q1_sg6_arayat_bobila.py)
-
-[FA 7]
 
 [SG2 Act 2](https://github.com/vdbobila/CS3-Respository/blob/main/q1/q1_sg2_a2.md)
 
